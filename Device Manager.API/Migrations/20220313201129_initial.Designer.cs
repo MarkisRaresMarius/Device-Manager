@@ -42,7 +42,7 @@ namespace Device_Manager.API.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("OS_Ver")
+                    b.Property<string>("Osver")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 

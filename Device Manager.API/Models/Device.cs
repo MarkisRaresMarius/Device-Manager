@@ -15,7 +15,7 @@ namespace Device_Manager.API.Models
         
         public string OS { get; set; }
 
-        public string OS_Ver { get; set; }
+        public string Osver { get; set; }
 
         public string Processor { get; set; }
 

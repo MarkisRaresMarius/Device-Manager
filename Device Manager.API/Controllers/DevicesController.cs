@@ -61,7 +61,7 @@ namespace Device_Manager.API.Controllers
                 existingDevice.Manufacturer = device.Manufacturer;
                 existingDevice.Type = device.Type;
                 existingDevice.OS = device.OS;
-                existingDevice.OS_Ver = device.OS_Ver;
+                existingDevice.Osver = device.Osver;
                 existingDevice.Processor = device.Processor;
                 existingDevice.Ram = device.Ram;
                 await devicesDbContext.SaveChangesAsync();

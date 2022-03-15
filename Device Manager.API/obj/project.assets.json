@@ -2063,11 +2063,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\dev\\Device Manager\\Device Manager\\Device Manager.API\\Device Manager.API.csproj",
+      "projectUniqueName": "E:\\dev\\Device Manager\\Device-Manager\\Device Manager.API\\Device Manager.API.csproj",
       "projectName": "Device Manager.API",
-      "projectPath": "E:\\dev\\Device Manager\\Device Manager\\Device Manager.API\\Device Manager.API.csproj",
+      "projectPath": "E:\\dev\\Device Manager\\Device-Manager\\Device Manager.API\\Device Manager.API.csproj",
       "packagesPath": "C:\\Users\\RA\\.nuget\\packages\\",
-      "outputPath": "E:\\dev\\Device Manager\\Device Manager\\Device Manager.API\\obj\\",
+      "outputPath": "E:\\dev\\Device Manager\\Device-Manager\\Device Manager.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

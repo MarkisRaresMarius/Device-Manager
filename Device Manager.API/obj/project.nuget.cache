@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LQIIZkCuJn6sYgaT1Cx1rRv6wFqHrnY9Rc89dWa1AaGpizzANLv5eXpgsxSWI+00wGEJk0I0HH1Lrg0SU873KA==",
+  "dgSpecHash": "M1OR5c/z0tVAZx5DfBIJOAbpQjBYVX5+/w7UeUFd+43ZJdL9nXOyoPRu0ZVNXAN+Pj30fdDAWhDBdnfiykBffA==",
   "success": true,
-  "projectFilePath": "E:\\dev\\Device Manager\\Device Manager\\Device Manager.API\\Device Manager.API.csproj",
+  "projectFilePath": "E:\\dev\\Device Manager\\Device-Manager\\Device Manager.API\\Device Manager.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\RA\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\RA\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

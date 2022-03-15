@@ -18,7 +18,7 @@ namespace Device_Manager.API.Migrations
                     Manufacturer = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     Type = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     OS = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    OS_Ver = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    Osver = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     Processor = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     Ram = table.Column<int>(type: "int", nullable: false)
                 },
